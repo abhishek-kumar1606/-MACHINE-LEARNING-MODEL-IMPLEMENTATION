@@ -15,3 +15,5 @@
 ## I HAVE COMPLETE MY TASK IN VS CODE EDITOR AND I USE SCIKIT-LEARN PYTHON TOOL.
 
 #OUTPUT:
+
+<img width="593" height="245" alt="Image" src="https://github.com/user-attachments/assets/b415ee13-33d5-487c-94f1-b650bea074bc" />

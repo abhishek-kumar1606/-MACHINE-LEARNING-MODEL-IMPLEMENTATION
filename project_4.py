@@ -4,6 +4,7 @@ from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.metrics import accuracy_score
 
+print("THIS IS THE SPAM EMAIL DETECTION")
 # Step 2: Create a simple dataset
 emails = [
     "Win a $1000 Walmart gift card now!",
